@@ -3,7 +3,6 @@
  *  Copyright 2021 Alice Yu
  */
 package base;
-import java.time.Year;
 import java.time.YearMonth;
 import java.util.Scanner;
 
